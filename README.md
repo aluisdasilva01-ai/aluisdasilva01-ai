@@ -31,7 +31,4 @@ Estudante de Tecnologia da Informação, construí minha trajetória com discipl
 🚀 O que eu busco:
 Oportunidade para aplicar minha organização, disciplina e cuidado com o dado em equipes que valorizam informações confiáveis. Quero crescer na área de Administração e Qualidade de Dados, aprendendo com profissionais experientes e entregando resultados que realmente ajudem o negócio a tomar decisões melhores.
 
-🔎 Veja meus trabalhos na prática:
-👉 [Projetos Práticos de Excel](https://github.com/aluisdasilva01-ai/projetos_praticos_Excel) — meu portfólio mais recente, com tudo o que venho aplicando em cada módulo do curso.
-
 Não busco só "aprender ferramentas": busco dominar o processo de transformar dados desorganizados em um ativo útil para a empresa.
